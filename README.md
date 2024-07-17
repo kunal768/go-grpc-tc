@@ -31,6 +31,20 @@ go test ./user
 > 2: {ID: 2, FName: "Jane", City: "Los Angeles", Phone: 9876543210, Height: 165.2, Married: false}
 
 
+### User Model 
+```go
+type User struct {
+    ID   UserId
+    FName  string
+    City  string
+    Phone  int64
+    Height float64
+    Married bool
+}
+```
+
+
+
 #### Request/Response examples for gRPC server 
 
 #### Get User By Id
