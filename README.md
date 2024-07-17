@@ -1,5 +1,5 @@
 # go-grpc-tc
-Go gRPC server assignment for Totality Corp
+Go gRPC server for performing unary gRPC requests
 
 ### To Build
 
