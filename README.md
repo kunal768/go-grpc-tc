@@ -1,5 +1,5 @@
 # go-grpc-tc
-Go gRPC server for performing unary gRPC requests
+Go gRPC server for demonstrating unary gRPC requests
 
 ### To Build
 
